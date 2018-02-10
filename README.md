@@ -3,7 +3,7 @@ Functions:
   1. Receive votes via text message
   2. Process vote
   3. Store valid vote
-  4. Close Voteing Session
+  4. Close Voting Session
   5. Generate Report
   6. Dispose of Data
   
